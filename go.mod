@@ -1,4 +1,4 @@
-module github.com/tbaehler/gin-keycloak
+module github.com/setrofim/gin-keycloak
 
 require (
 	github.com/bytedance/sonic v1.11.3 // indirect
